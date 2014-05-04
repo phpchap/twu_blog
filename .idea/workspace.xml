@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="17164c4d-56cb-47cb-a445-a9966f1b4cc7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Less/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/Less/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Less/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/Less/style.css" />
     </list>
     <ignored path="twu_blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,9 +28,9 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="69" selection-start="2371" selection-end="2371" vertical-scroll-proportion="0.5597015" vertical-offset="610" max-vertical-offset="5124">
+            <state line="23" column="0" selection-start="483" selection-end="712" vertical-scroll-proportion="0.6007463" vertical-offset="0" max-vertical-offset="5124">
               <folding>
-                <element signature="e#1275#1641#0" expanded="true" />
+                <element signature="e#1291#1657#0" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#article#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -246,7 +245,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="307" column="27" selection-start="9401" selection-end="9413" vertical-scroll-proportion="0.0" vertical-offset="4324" max-vertical-offset="4872">
           <folding>
-            <element signature="e#1275#1641#0" expanded="true" />
+            <element signature="e#1291#1657#0" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#article#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -264,7 +263,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="185" column="28" selection-start="4943" selection-end="4943" vertical-scroll-proportion="0.0" vertical-offset="2285" max-vertical-offset="3150">
           <folding>
-            <element signature="e#1275#1641#0" expanded="true" />
+            <element signature="e#1291#1657#0" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#article#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -294,9 +293,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="69" selection-start="2371" selection-end="2371" vertical-scroll-proportion="0.5597015" vertical-offset="610" max-vertical-offset="5124">
+        <state line="23" column="0" selection-start="483" selection-end="712" vertical-scroll-proportion="0.6007463" vertical-offset="0" max-vertical-offset="5124">
           <folding>
-            <element signature="e#1275#1641#0" expanded="true" />
+            <element signature="e#1291#1657#0" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#article#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
