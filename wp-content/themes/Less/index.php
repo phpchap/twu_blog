@@ -13,14 +13,6 @@
 
 <body <?php body_class(); ?>>
 <script>
-//    window.fbAsyncInit = function() {
-//        FB.init({
-//            appId      : '608782162532248',
-//            xfbml      : true,
-//            status     : true,
-//            version    : 'v2.0'
-//        });
-//    };
     (function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;
@@ -50,7 +42,17 @@
 */ ?>
 <div class="toolbar-wrapper">
     <div class="toolbar">
-        <div style="float:left" class="span6">
+        <div class="span6">
+            <div class="logo">
+
+                <a href="/"><img alt="Too Wrapped Up" src="//cdn.shopify.com/s/files/1/0456/8249/t/3/assets/logo.png?706"></a>
+
+                <h1 style="display:none"><a href="/">Too Wrapped Up</a></h1>
+
+
+            </div>
+        </div>
+        <div class="span6">
             <nav class="main">
                 <ul class="horizontal">
                     <li>
@@ -77,14 +79,10 @@
                 </select>
             </nav>
         </div>
-<!--        <div style="float:right;margin-top:10px" class="span6">-->
-<!--            <ul class="unstyled">-->
-<!--                <li><span class="icon-cart"></span><a title="Shopping Cart" class="cart" href="http://www.toowrappedup.com/cart">&nbsp;</a></li>-->
-<!--            </ul>-->
-<!--        </div>-->
     </div>
+    <div style="clear:both">&nbsp;</div>
 </div>
-<div style="clear:both">&nbsp;</div>
+
 <div class="container">
 
 	<div id="primary">
