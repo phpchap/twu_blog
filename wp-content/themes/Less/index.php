@@ -259,7 +259,7 @@
                     <h4>Latest news</h4>
                     <?php if ( have_posts() ) : ?>
                         <?php while ( have_posts() ) : the_post(); ?>
-                            <p class="p10"><strong><a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title() ?></a></strong></p>
+                            <p class="p10"><strong><a href="<?php echo the_permalink(); ?>" title="<?php echo the_title(); ?>"><?php echo the_title() ?></a></strong></p>
                         <?php endwhile; ?>
                     <?php endif; ?>
                 </div>

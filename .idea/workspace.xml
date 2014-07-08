@@ -37,7 +37,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="281" column="31" selection-start="8869" selection-end="8869" vertical-scroll-proportion="0.677686" vertical-offset="3161" max-vertical-offset="4511">
+            <state line="261" column="138" selection-start="8041" selection-end="8041" vertical-scroll-proportion="0.31955922" vertical-offset="3161" max-vertical-offset="4511">
               <folding>
                 <element signature="e#1062#1428#0" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -355,7 +355,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="281" column="31" selection-start="8869" selection-end="8869" vertical-scroll-proportion="0.677686" vertical-offset="3161" max-vertical-offset="4511">
+        <state line="261" column="138" selection-start="8041" selection-end="8041" vertical-scroll-proportion="0.31955922" vertical-offset="3161" max-vertical-offset="4511">
           <folding>
             <element signature="e#1062#1428#0" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
