@@ -107,15 +107,6 @@
 								<?php the_title() ?>
 							</a>
 						</h1>
-                        <?php /*
-						<div class="post-meta">
-							<?php if( comments_open() ) : ?>
-								<span class="comments-link">
-									<?php comments_popup_link( __( 'Comment', 'break' ), __( '1 Comment', 'break' ), __( '% Comments', 'break' ) ); ?>
-								</span>
-							<?php endif; ?>
-						</div><!--/post-meta -->
-						*/ ?>
 
 						<div class="the-content">
 							<?php the_content( 'Continue...' ); ?>
@@ -266,10 +257,11 @@
             <div class="span4">
                 <div class="p30">
                     <h4>Latest news</h4>
-
-                    <p class="p10"><strong>Blog Title 1</strong></p>
-
-                    <p class="p10"><strong>Blog Title 2</strong></p>
+                    <?php if ( have_posts() ) : ?>
+                        <?php while ( have_posts() ) : the_post(); ?>
+                            <p class="p10"><strong><a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title() ?></a></strong></p>
+                        <?php endwhile; ?>
+                    <?php endif; ?>
                 </div>
             </div>
             <!-- End latest blog post -->
@@ -278,17 +270,10 @@
             <div class="span4 footer-menu">
                 <h4>Quick Links</h4>
                 <ul class="unstyled">
-
                     <li><a href="/" title="Home">Home</a></li>
-
-                    <li><a href="/collections/all" title="Catalog">Catalog</a>
-                    </li>
-
+                    <li><a href="/collections/all" title="Catalog">Catalog</a></li>
                     <li><a href="http://blog.toowrappedup.com" title="Blog">Blog</a></li>
-
-                    <li><a href="/pages/about-us" title="About Us">About Us</a>
-                    </li>
-
+                    <li><a href="/pages/about-us" title="About Us">About Us</a></li>
                 </ul>
             </div>
             <!-- End footer navigation -->
@@ -296,10 +281,8 @@
             <!-- Begin newsletter/social -->
             <div class="span4">
 
-
                 <div class="p30">
                     <h4>Newsletter</h4>
-
                     <form action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
                         <input type="email" value="" placeholder="Email Address" name="EMAIL" id="mail"><input type="submit" class="btn newsletter" value="Subscribe" name="subscribe" id="subscribe">
                     </form>
