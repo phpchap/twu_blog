@@ -47,7 +47,7 @@
 
                 <a href="/"><img alt="Too Wrapped Up" src="//cdn.shopify.com/s/files/1/0456/8249/t/3/assets/logo.png?706"></a>
 
-                <h1 style="display:none"><a href="/">Too Wrapped Up</a></h1>
+                <h1 style="display:none"><a href="http://www.toowrappedup.com/">Too Wrapped Up</a></h1>
 
 
             </div>
