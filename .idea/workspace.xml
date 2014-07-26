@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17164c4d-56cb-47cb-a445-a9966f1b4cc7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Less/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/Less/index.php" />
-    </list>
+    <list default="true" id="17164c4d-56cb-47cb-a445-a9966f1b4cc7" name="Default" comment="" />
     <ignored path="twu_blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,7 +26,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="606" column="14" selection-start="10457" selection-end="10457" vertical-scroll-proportion="-11.0" vertical-offset="7603" max-vertical-offset="15483">
+            <state line="606" column="14" selection-start="10457" selection-end="10457" vertical-scroll-proportion="0.0" vertical-offset="7603" max-vertical-offset="15483">
               <folding />
             </state>
           </provider>
@@ -37,12 +35,9 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="77" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.6597796" vertical-offset="158" max-vertical-offset="4511">
+            <state line="49" column="77" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.63781625" vertical-offset="158" max-vertical-offset="4511">
               <folding>
                 <element signature="e#1062#1428#0" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#article#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,20 +46,8 @@
       <file leaf-file-name="general-template.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2027" column="9" selection-start="66571" selection-end="66571" vertical-scroll-proportion="-13.727273" vertical-offset="25984" max-vertical-offset="38025">
-              <folding>
-                <marker date="1400322401710" expanded="true" signature="39570:39758" placeholder="SELECT YEAR(..." />
-                <marker date="1400322401710" expanded="true" signature="40486:40627" placeholder="SELECT YEAR(..." />
-                <marker date="1400322401710" expanded="true" signature="41230:41480" placeholder="SELECT YEAR(..." />
-                <marker date="1400322401710" expanded="true" signature="42311:42555" placeholder="SELECT DISTI..." />
-                <marker date="1400322401710" expanded="true" signature="43776:43840" placeholder="SELECT * FRO..." />
-                <marker date="1400322401710" expanded="true" signature="46097:46192" placeholder="SELECT 1 as ..$wpdb-&gt;posts WHERE..." />
-                <marker date="1400322401710" expanded="true" signature="47411:47625" placeholder="SELECT MONTH..." />
-                <marker date="1400322401710" expanded="true" signature="47654:47885" placeholder="SELECT MONTH..." />
-                <marker date="1400322401710" expanded="true" signature="48626:48632" placeholder="..." />
-                <marker date="1400322401710" expanded="true" signature="49752:49758" placeholder="..." />
-                <marker date="1400322401710" expanded="true" signature="49825:50060" placeholder="SELECT DISTI..$wpdb-&gt;posts WHERE..." />
-              </folding>
+            <state line="2027" column="9" selection-start="66571" selection-end="66571" vertical-scroll-proportion="0.0" vertical-offset="26351" max-vertical-offset="38090">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,7 +55,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="51" selection-start="1333" selection-end="1333" vertical-scroll-proportion="-21.272728" vertical-offset="0" max-vertical-offset="546">
+            <state line="36" column="51" selection-start="1333" selection-end="1333" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="546">
               <folding />
             </state>
           </provider>
@@ -81,7 +64,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="-1.1818181" vertical-offset="0" max-vertical-offset="104">
+            <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="104">
               <folding />
             </state>
           </provider>
@@ -90,7 +73,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="-8.272727" vertical-offset="0" max-vertical-offset="299">
+            <state line="14" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="299">
               <folding />
             </state>
           </provider>
@@ -193,6 +176,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../awd_portfolio" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -208,14 +192,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1442" height="905" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2673611" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2673611" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="MagicentoScripts" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -224,11 +208,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -256,6 +240,50 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="606" column="14" selection-start="10457" selection-end="10457" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15483">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="77" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.0" vertical-offset="158" max-vertical-offset="4511">
+          <folding>
+            <element signature="e#1062#1428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2027" column="9" selection-start="66571" selection-end="66571" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="38090">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="51" selection-start="1333" selection-end="1333" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="546">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="104">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="299">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="0" selection-start="483" selection-end="712" vertical-scroll-proportion="0.0" vertical-offset="299" max-vertical-offset="4758" />
@@ -308,59 +336,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="-1.1818181" vertical-offset="0" max-vertical-offset="104">
+        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="104">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="-8.272727" vertical-offset="0" max-vertical-offset="299">
+        <state line="14" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="299">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="51" selection-start="1333" selection-end="1333" vertical-scroll-proportion="-21.272728" vertical-offset="0" max-vertical-offset="546">
+        <state line="36" column="51" selection-start="1333" selection-end="1333" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="546">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2027" column="9" selection-start="66571" selection-end="66571" vertical-scroll-proportion="-13.727273" vertical-offset="25984" max-vertical-offset="38025">
-          <folding>
-            <marker date="1400322401710" expanded="true" signature="39570:39758" placeholder="SELECT YEAR(..." />
-            <marker date="1400322401710" expanded="true" signature="40486:40627" placeholder="SELECT YEAR(..." />
-            <marker date="1400322401710" expanded="true" signature="41230:41480" placeholder="SELECT YEAR(..." />
-            <marker date="1400322401710" expanded="true" signature="42311:42555" placeholder="SELECT DISTI..." />
-            <marker date="1400322401710" expanded="true" signature="43776:43840" placeholder="SELECT * FRO..." />
-            <marker date="1400322401710" expanded="true" signature="46097:46192" placeholder="SELECT 1 as ..$wpdb-&gt;posts WHERE..." />
-            <marker date="1400322401710" expanded="true" signature="47411:47625" placeholder="SELECT MONTH..." />
-            <marker date="1400322401710" expanded="true" signature="47654:47885" placeholder="SELECT MONTH..." />
-            <marker date="1400322401710" expanded="true" signature="48626:48632" placeholder="..." />
-            <marker date="1400322401710" expanded="true" signature="49752:49758" placeholder="..." />
-            <marker date="1400322401710" expanded="true" signature="49825:50060" placeholder="SELECT DISTI..$wpdb-&gt;posts WHERE..." />
-          </folding>
+        <state line="2027" column="9" selection-start="66571" selection-end="66571" vertical-scroll-proportion="0.0" vertical-offset="26351" max-vertical-offset="38090">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="606" column="14" selection-start="10457" selection-end="10457" vertical-scroll-proportion="-11.0" vertical-offset="7603" max-vertical-offset="15483">
+        <state line="606" column="14" selection-start="10457" selection-end="10457" vertical-scroll-proportion="0.0" vertical-offset="7603" max-vertical-offset="15483">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Less/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="77" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.6597796" vertical-offset="158" max-vertical-offset="4511">
+        <state line="49" column="77" selection-start="1753" selection-end="1753" vertical-scroll-proportion="0.63781625" vertical-offset="158" max-vertical-offset="4511">
           <folding>
             <element signature="e#1062#1428#0" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#article#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
